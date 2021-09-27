@@ -1,0 +1,11 @@
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\bin\Debug\MultifunctionalSoftware.GUI.exe.config
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\bin\Debug\MultifunctionalSoftware.GUI.exe
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\bin\Debug\MultifunctionalSoftware.GUI.pdb
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.csprojAssemblyReference.cache
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.Form1.resources
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.Form2.resources
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.Properties.Resources.resources
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.csproj.GenerateResource.cache
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.csproj.CoreCompileInputs.cache
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.exe
+C:\Users\caglar\source\repos\MultifunctionalSoftware\MultifunctionalSoftware.GUI\obj\Debug\MultifunctionalSoftware.GUI.pdb
